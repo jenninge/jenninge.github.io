@@ -12,7 +12,7 @@ This code review provides the plans for all three enhancements. This includes in
 
 ## Projects
 
-Enhancement One: Software Engineering and Design
+###Enhancement One: Software Engineering and Design
 
 The artifact for this enhancement is from the introduction to C++ programming language course. The original project demonstrated how to read an input file, place contents into a map, and place the read contents into an output file. This program used a simple txt file to read.
 I chose to enhance the project by reading an input file into a vector and performing CRUD operations on it. The operations I created include reading all data, reading a specific piece of data, updating data, and deleting data. The program can be easily adjusted based on the type of input file. The end goal is to transform the data before loading it either into another file or a database.
