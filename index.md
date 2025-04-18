@@ -46,7 +46,7 @@ Course Outcomes achieved:
 
 | Container | Best | Worst |   
 
-| :---: | :---: | :---: |   
+| :----: | :----: | :----: |   
 | Array | O(1) | O(1)/O(n) |   
 | Linked List | O(1) | O(n) |   
 | HashMap | O(1) | O(n) |    
