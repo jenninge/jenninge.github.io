@@ -42,7 +42,7 @@ Course Outcomes achieved:
 
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
-#### Time Complexities   
+#### Time Complexities    
 
 | Container | Best | Worst |   
 | :---: | :---: | :---: |   
