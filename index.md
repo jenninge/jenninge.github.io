@@ -1,6 +1,6 @@
 # Elissa Jennings Portfolio
 
-## About Me
+## Self-Assessment
 
 My name is Elissa. I have been in the healthcare field for 10 years and I currently work as an MRI Technologist. I am currently completing my bachelor’s in computer science. My goal is to use this degree in the data analytics field. I have a passion for discovering what data is trying to tell us and using that information to improve work processes in various industries.
 
@@ -12,11 +12,20 @@ This code review provides the plans for all three enhancements. This includes in
 
 ## Projects
 
-### Enhancement One: Software Engineering and Design
+### Enhancement One: Software Engineering and Design   
 
-The artifact for this enhancement is from the introduction to C++ programming language course. The original project demonstrated how to read an input file, place contents into a map, and place the read contents into an output file. This program used a simple txt file to read.  All programming was completed using Visual Studios IDE.
+The artifact for this enhancement is from CS210, introduction to C++ programming language course. The original project demonstrated how to read an input file, count the occurrence of each item and place them into an output file. It was created in the fall of 2023. All programming was completed using Visual Studios IDE. I chose this program because it had a good base for functionality. My goal was to enhance the program to be able to perform CRUD operations on the data from the input file so it could eventually be loaded into some type of database.
 
-I chose to enhance the project by reading an input file into a vector and performing CRUD operations on it. The operations I created include reading all data, reading a specific piece of data, updating data, and deleting data. The program can be easily adjusted based on the type of input file. The end goal is to transform the data before loading it either into another file or a database.
+I enhanced the project by reading an input file into a vector and performing CRUD operations on the vector. The operations I created included reading all data, reading a specific piece of data, updating data, and deleting data. The program can be easily adjusted based on the type of input file. The enhancement demonstrates my skills with data transformation, data structures, and well-defined functions.   
+
+During this enhancement, I realized how much I have learned throughout this program. I found it much easier to debug the program and find where there were issues. It also demonstrated how important it is to test after each modification of the code. I struggled getting my validation code to work but after trial and error I was able to work through the problem and get a fully functional program.   
+
+Course Outcomes achieved:  
+3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.   
+
+4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+
+
 
 [Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementOne)   
 
@@ -29,12 +38,12 @@ The artifact for this enhancement is from the software testing and automation cl
 Enhancement to this program includes full functionality as a java application. Instead of an array for appointments, I used a linked list. I chose a linked list because an appointment list would constantly be changing, and a linked list is better for frequent insertions and deletions. Instead of an array for contacts, I implemented a hashmap. A hashmap is better for contacts because a contact list can become very large and dynamically changing and a hashmap is better container for that.   
 
 #### Time Complexities
-| Container | Best | Worst |
-| --- | --- | --- |
-| Array | O(1) | O(1)/O(n) |
-| Linked List | O(1) | O(n) |
-| HashMap | O(1) | O(n) |   
-
+| Container | Best | Worst |   
+| :--------: | :---: | :----: |   
+| Array | O(1) | O(1)/O(n) |   
+| Linked List | O(1) | O(n) |   
+| HashMap | O(1) | O(n) |    
+  
 [Original Project Link]()   
 [Enhanced Project Link]()
 
