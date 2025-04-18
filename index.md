@@ -18,14 +18,12 @@ The artifact for this enhancement is from CS210, introduction to C++ programming
 
 I enhanced the project by reading an input file into a vector and performing CRUD operations on the vector. The operations I created included reading all data, reading a specific piece of data, updating data, and deleting data. The program can be easily adjusted based on the type of input file. The enhancement demonstrates my skills with data transformation, data structures, and well-defined functions.   
 
-During this enhancement, I realized how much I have learned throughout this program. I found it much easier to debug the program and find where there were issues. It also demonstrated how important it is to test after each modification of the code. I struggled getting my validation code to work but after trial and error I was able to work through the problem and get a fully functional program.   
+During this enhancement, I realized how much I have learned throughout this program. I found it much easier to debug the program and find where there were issues. It also demonstrated how important it is to test after each modification of the code. I struggled getting my validation code to work but after trial and error I was able to work through the problem and get a fully functional program. I achieved the following course outcomes by creating CRUD operations and demonstrating skills for data management.    
 
 Course Outcomes achieved:  
-3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.   
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.   
 
-4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
-
-
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
 [Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementOne)   
 
@@ -33,9 +31,16 @@ Course Outcomes achieved:
 
 ### Enhancement Two: Algorithms and Data Structures
 
-The artifact for this enhancement is from the software testing and automation class. It was created using Java programming language. The original program was used for JUNIT testing only. It had no functionality for a java application. The program created arrays of contact and appointment data and tested various functions. The functions included adding, updating, and deleting contacts and appointments. All programming was completed using Eclipse IDE.   
+The artifact for this enhancement is from CS320, software testing and automation class. It was created in April 2024 using Java programming language. All programming was completed using Eclipse IDE. The original program was used for JUNIT testing only. It had no functionality for a java application. The program created arrays of contact and appointment data and tested various functions. The functions included adding, updating, and deleting contacts and appointments. I chose this program because it had a good base code to add functionality to run it as a java application. I wanted to demonstrate my skills with different data structures, ability to add functionality, and demonstrate my understanding of time complexity.   
 
-Enhancement to this program includes full functionality as a java application. Instead of an array for appointments, I used a linked list. I chose a linked list because an appointment list would constantly be changing, and a linked list is better for frequent insertions and deletions. Instead of an array for contacts, I implemented a hashmap. A hashmap is better for contacts because a contact list can become very large and dynamically changing and a hashmap is better container for that.   
+Enhancement to this program includes full functionality as a java application. The array of appointments was changed to a linked list. I chose a linked list because an appointment list would constantly be changing, and a linked list is better for frequent insertions and deletions. The array of contacts was changed to a HashMap. A HashMap is better for large and dynamically changing data like contact information.   
+
+This enhancement solidified the importance of classes. This program became very large, very quickly and without the use of classes it would be unmanageable. I ran into issues when trying to print the data from the containers. I feel this program has improved drastically since it had zero functionality to it in the beginning.  I met the following course outcomes by including comments that are useful and detailing the reasons for the changes. The new program utilizes algorithmic principles and details were given for the changes.  
+
+Course Outcomes achieved: 
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
 #### Time Complexities
 | Container | Best | Worst |   
