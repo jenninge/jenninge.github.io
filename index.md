@@ -45,6 +45,7 @@ Course Outcomes achieved:
 #### Time Complexities    
 
 | Container | Best | Worst |   
+
 | :---: | :---: | :---: |   
 | Array | O(1) | O(1)/O(n) |   
 | Linked List | O(1) | O(n) |   
