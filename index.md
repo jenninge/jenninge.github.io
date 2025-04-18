@@ -42,9 +42,10 @@ Course Outcomes achieved:
 
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
-#### Time Complexities
+#### Time Complexities   
+
 | Container | Best | Worst |   
-| :--------: | :---: | :----: |   
+| :---: | :---: | :---: |   
 | Array | O(1) | O(1)/O(n) |   
 | Linked List | O(1) | O(n) |   
 | HashMap | O(1) | O(n) |    
