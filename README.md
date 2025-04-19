@@ -22,9 +22,9 @@ Enhancement Three: This enhancement includes connecting to a SQLite database and
 
 2. Add sqlite3.c to source files in C++ program.
 3. Add package under Manage NuGet Packages in the project directory.
-   [](![image](https://github.com/user-attachments/assets/c2263155-ab46-41ca-a390-cdf99d1787cc)
+    - Browse for sqlite3_c_plus_plus and install.
+    - ![image](https://github.com/user-attachments/assets/16ce48e2-df2e-4da2-bcda-59aef62c36c3)
 
-    - Browse for sqlite3_c_plus_plus by Dawlin Pena and install.
 5. #include <sqlite3.h>
 Now you are ready to work with a SQLite database!
 
