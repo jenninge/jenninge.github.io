@@ -1,18 +1,36 @@
-# Elissa Jennings RT(R)(MR) Portfolio
+# ePortfolio
 
-## About Me
+## Overview
 
-My name is Elissa. I have been in the healthcare field for 10 years and I currently work as an MRI Technologist. I am currently completing my bachelor’s in computer science. My goal is to use this degree in the data analytics field. I have a passion for discovering what data is trying to tell us and using that information to improve work processes in various industries.
+This repository contains artifacts with enhancements for a github pages portfolio. There are three enhancements within this repository with two different artifacts. The first artifact is used in enhancement one and three. It is a C++ program that reads an input file and counts the number of ocurrences of each item. The second artifact is used for enhancement two. It is a Java program that was created for JUNIT testing. It has no functionality as a java application.  
 
-## Projects
+Enhancement One: This enhancement includes CRUD operations to perform on the data from the input file. The data is read from the file and placed into a vector. Functions used on the vector include reading data, adding data, updating data, and deleting data.    
 
-Enhancement One: Software Engineering and Design
-The artifact for this enhancement is from the introduction to C++ programming language course. The original project demonstrated how to read an input file, place contents into a map, and place the read contents into an output file. This program used a simple txt file to read.
-I chose to enhance the project by reading an input file into a vector and performing CRUD operations on it. The operations I created include reading all data, reading a specific piece of data, updating data, and deleting data. The program can be easily adjusted based on the type of input file. The end goal is to transform the data before loading it either into another file or a database.
+Enhancement Two: Enhancements were made to have a fully functioning java application. It also includes changing the data structure from arrays to linked lists and hashmaps.   
+
+Enhancement Three: This enhancement includes connecting to a SQLite database and performing CRUD operations on the input file data.   
+
+## Getting Started   
+
+[Visual Studios](https://visualstudio.microsoft.com/)
+[Eclipse](https://eclipseide.org/)   
+
+### Connecting to SQLite Database
+
+1. Download the sqlite amalgamation zip file.
+[SQLite](https://sqlite.org/download.html)   
+
+2. Add sqlite3.c to source files in C++ program.
+3. Add package under Manage NuGet Packages in the project directory.
+   [](![image](https://github.com/user-attachments/assets/c2263155-ab46-41ca-a390-cdf99d1787cc)
+
+    - Browse for sqlite3_c_plus_plus by Dawlin Pena and install.
+5. #include <sqlite3.h>
+Now you are ready to work with a SQLite database!
 
 
 
 
-# Education
 
-# Work Experience
+
+ 
