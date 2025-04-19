@@ -26,6 +26,7 @@ Enhancement Three: This enhancement includes connecting to a SQLite database and
     - ![image](https://github.com/user-attachments/assets/16ce48e2-df2e-4da2-bcda-59aef62c36c3)
 
 5. #include <sqlite3.h>
+   
 Now you are ready to work with a SQLite database!
 
 
