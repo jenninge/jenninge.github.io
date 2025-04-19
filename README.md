@@ -2,13 +2,14 @@
 
 ## Overview
 
-This repository contains artifacts with enhancements for a github pages portfolio. There are three enhancements within this repository with two different artifacts. The first artifact is used in enhancement one and three. It is a C++ program that reads an input file and counts the number of ocurrences of each item. The second artifact is used for enhancement two. It is a Java program that was created for JUNIT testing. It has no functionality as a java application.  
+This repository contains artifacts with enhancements for a GitHub pages portfolio. There are three enhancements within this repository with two different artifacts. The first artifact is used in enhancement one and three. It is a C++ program that reads an input file and counts the number of occurrences of each item. The second artifact is used for enhancement two. It is a Java program that was created for JUNIT testing. It has no functionality as a java application.  
 
 Enhancement One: This enhancement includes CRUD operations to perform on the data from the input file. The data is read from the file and placed into a vector. Functions used on the vector include reading data, adding data, updating data, and deleting data.    
 
-Enhancement Two: Enhancements were made to have a fully functioning java application. It also includes changing the data structure from arrays to linked lists and hashmaps.   
+Enhancement Two: Enhancements were made to have a fully functioning java application. It also includes changing the data structure from Arrays to Linked Lists and HashMap.   
 
 Enhancement Three: This enhancement includes connecting to a SQLite database and performing CRUD operations on the input file data.   
+
 
 ## Getting Started   
 
