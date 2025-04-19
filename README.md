@@ -12,16 +12,18 @@ Enhancement Three: This enhancement includes connecting to a SQLite database and
 
 ## Getting Started   
 
-[Visual Studios](https://visualstudio.microsoft.com/)
+[Visual Studios](https://visualstudio.microsoft.com/)   
+
 [Eclipse](https://eclipseide.org/)   
 
 ### Connecting to SQLite Database
 
 1. Download the sqlite amalgamation zip file.
+   
 [SQLite](https://sqlite.org/download.html)   
 
-2. Add sqlite3.c to source files in C++ program.
-3. Add package under Manage NuGet Packages in the project directory.
+3. Add sqlite3.c to source files in C++ program.
+4. Add package under Manage NuGet Packages in the project directory.
     - Browse for sqlite3_c_plus_plus and install.
     - ![image](https://github.com/user-attachments/assets/16ce48e2-df2e-4da2-bcda-59aef62c36c3)
 
