@@ -65,6 +65,7 @@ Course Outcomes achieved:
   
 [Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementTwo/src)   
 
+
 [Enhanced Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/EnhancementTwo)
 
 ### Enhancement Three: Databases
@@ -78,7 +79,8 @@ Course Outcomes achieved:
 - Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-[Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementOneAndThree)     
+[Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementOneAndThree)    
+
 
 [Enhanced Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/EnhancementThree)
 
