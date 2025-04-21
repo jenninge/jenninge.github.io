@@ -63,8 +63,8 @@ Course Outcomes achieved:
 | Linked List | O(1) | O(n) |   
 | HashMap | O(1) | O(n) |    
   
-[Original Project Link]()   
-[Enhanced Project Link]()
+[Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementTwo/src)   
+[Enhanced Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/EnhancementTwo)
 
 ### Enhancement Three: Databases
 
@@ -78,7 +78,7 @@ Course Outcomes achieved:
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
 [Original Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/OriginalForEnhancementOneAndThree)   
-[Enhanced Project Link]()
+[Enhanced Project Link](https://github.com/jenninge/jenninge.github.io/tree/main/EnhancementThree)
 
 
 
