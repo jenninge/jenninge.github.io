@@ -4,10 +4,9 @@
 
 My journey through the computer science program has been eye-opening. I currently have experience working in healthcare as an MRI Technologist. I felt I reached my potential in my current career and needed to challenge myself in a new field. I have learned so much throughout the program. I learned how to program in different programming languages such as Python, C++, and Java. I also learned the importance of communication, documentation, and teamwork to succeed with a project. I also learned the valuable lesson of asking for help when I had trouble getting code to work or understanding different concepts.   
 
-This degree has opened my eyes to many different career fields. My dream career would be in data analytics. I enjoyed working with large data sets to try and find out what the data is trying to say. I gained experience in SQL, MongoDB, Power BI, and Excel. I learned the importance of data quality, ETL processes, gap analysis, and cleaning the data so it is usable. Ideally, I would like to use my experience in healthcare and apply it to data analysis to improve healthcare and patient outcomes.   
+This degree has opened my eyes to many different career fields. My dream career would be in data science. I enjoy working with data to solve larger problems. I gained experience in SQL, MongoDB, Power BI, and Excel. I learned the importance of data quality, ETL processes, gap analysis, and cleaning the data so it is usable. Ideally, I would like to use my experience in healthcare and apply it to data science to improve healthcare and patient outcomes.   
 
 Below are some projects to demonstrate my skills in various programming languages and data structures.
-
 
 ## Projects
 
