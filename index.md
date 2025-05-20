@@ -11,6 +11,12 @@ Below are some projects to demonstrate my skills in various programming language
 
 ## Projects
 
+### Deep Q-Learning Project  
+
+This project utilized deep Q-Learning to solve a maze. The goal of the program is to solve the maze in the shortest amount of moves with a 100%-win rate. Most of the program was provided for me and my job was to create a deep Q-learning portion to train the AI agent. I utilized various machine learning concepts. The main concept utilized was reinforcement learning. This utilizes states, actions, and rewards to help guide the AI agent. Exploitation/exploration was used to instruct the AI agent on how to proceed. Ideally the agent would exploit more rather than explore to solve the maze faster.
+
+[Repository Link](https://github.com/jenninge/CS370.git)
+
 ### Enhancement One: Software Engineering and Design   
 
 The artifact for this enhancement is from CS210, an introduction to C++ programming language course. The original project demonstrated how to read an input file, count the occurrence of each item and place them into an output file. It was created in the fall of 2023. All programming was completed using Visual Studios IDE. I chose this program because it had a good base for functionality. My goal was to enhance the program to be able to perform CRUD operations on the data from the input file so it could eventually be loaded into some type of database.
