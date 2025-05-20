@@ -17,7 +17,9 @@ This project utilized deep Q-Learning to solve a maze. The goal of the program i
 [Repository Link](https://github.com/jenninge/CS370.git)   
 
 ### Python CRUD Module
-This is a Python CRUD module used to connect to MongoDB. It was used to create a dash application to display 
+This is a Python CRUD module used to connect to MongoDB. It was used to create a dash application to display animals and their location on a map.   
+[Repository Link](https://github.com/jenninge/CS340.git)   
+
 
 ### Enhancement One: Software Engineering and Design   
 
