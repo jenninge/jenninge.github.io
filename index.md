@@ -21,6 +21,18 @@ This is a Python CRUD module used to connect to MongoDB. It was used to create a
 
 [Repository Link](https://github.com/jenninge/CS340.git)   
 
+### Excel Data Transformation    
+This project demonstrates data transformation within Microsoft Excel. It encompasses adding a new data set to an existing data set. I cleaned the data and combined the data sets utilizing the power query editor. I included multiple worksheets to demonstrate my thought process.   
+1) Supermarket-Bruce Database = Existing data set
+2) SM Data Dictionary from Bruce = Data Dictionary for existing data set
+3) New Data-Wayne Data = New data to be combined with existing data set
+4) Transforming Wayne Data = Process of transforming the new data. Highlighted rows are additional rows to obtain the correct data
+5) Cleaned Wayne Data = New data set that has been cleaned
+6) Combined Data Set = Both data sets are combined into one worksheet via power query editor
+7) Pivot Tables = Demonstrate various calculations that were originally done via formulas for each data set
+
+[Excel Workbook Link]()
+
 
 ### Enhancement One: Software Engineering and Design   
 
